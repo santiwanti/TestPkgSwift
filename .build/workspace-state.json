@@ -1,0 +1,26 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "shared_pkg_swift",
+          "kind" : "root",
+          "location" : "/Users/sdt/Downloads/shared_pkg_swift",
+          "name" : "shared_pkg_swift"
+        },
+        "path" : "/Users/sdt/Downloads/shared_pkg_swift/.build/artifacts/shared_pkg_swift/Shared/Shared.xcframework",
+        "source" : {
+          "checksum" : "dd77a348e254cb53d31dfc5c48c410db928f14a575d7464f78ac7d91dea48f75",
+          "type" : "remote",
+          "url" : "https://github.com/santiwanti/TextXcFramework/raw/main/Shared_xcframework.zip"
+        },
+        "targetName" : "Shared"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
